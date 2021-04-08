@@ -1,3 +1,8 @@
+
+THIS IS A FORK OF flask-kerberos, using winkerberos instead of kerberos
+    
+    pip install git+git://github.com/elcsiga/flask-kerberos.git#egg=flask-kerberos
+
 Flask-Kerberos
 ==============
 
