@@ -1,4 +1,4 @@
-import kerberos
+import winkerberos
 
 from flask import Response
 from flask import _request_ctx_stack as stack
